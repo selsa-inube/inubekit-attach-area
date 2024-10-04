@@ -15,6 +15,7 @@
     "jsx": "react-jsx",
     "baseUrl": ".",
     "declaration": true,
+    "allowJs": true,
 
     /* Linting */
     "strict": true,
