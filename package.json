@@ -40,7 +40,8 @@
     "@inubekit/grid": "^2.3.0",
     "@inubekit/icon": "^2.15.1",
     "@inubekit/stack": "^3.8.0",
-    "@inubekit/text": "^2.15.0"
+    "@inubekit/text": "^2.15.0",
+    "@inubekit/label": "^3.1.0"
   },
   "peerDependencies": {
     "react": "^18.2.0",
